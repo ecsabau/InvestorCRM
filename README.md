@@ -1,7 +1,8 @@
 # InvestorCRM
 InvestorCRM is an intelligent, self-hosted Customer Relationship Management (CRM) platform designed for investment professionals, VC firms, and private investors. It blends classic CRM features with AI-driven lead analysis, deal tracking, and client interaction insights—all hosted privately on your own server infrastructure.
 
-#🚀 Features
+# 🚀 Features
+
 ```
 ✅ Lead Management – Add, score, and track potential investors or clients.
 
@@ -20,8 +21,9 @@ InvestorCRM is an intelligent, self-hosted Customer Relationship Management (CRM
 📁 Firebase Frontend – Responsive, modern UI deployed using Firebase.
 ```
 
-#🏗️ Tech Stack
-```
+# 🏗️ Tech Stack
+
+``` 
 Layer	Technology
 Frontend	React (or HTML/CSS + Firebase Hosting)
 Backend	Python Flask + SQLAlchemy
@@ -30,7 +32,8 @@ AI Engine	DeepSeek, OpenAI APIs
 Deployment	Nginx + Gunicorn on EC2
 ```
 
-#📂 Project Structure
+# 📂 Project Structure
+
 ```
 InvestorCRM/
 ├── app/
@@ -47,7 +50,8 @@ InvestorCRM/
 └── README.md
 ```
 
-#⚙️ Installation
+# ⚙️ Installation
+
 ```
 Backend (Flask + PostgreSQL)
 ```
@@ -76,7 +80,8 @@ db.create_all()
 python run.py
 ```
 
-#☁️ Deployment (EC2 Server + Gunicorn + Nginx)
+# ☁️ Deployment (EC2 Server + Gunicorn + Nginx)
+
 ```
 Make sure:
 
@@ -89,13 +94,15 @@ PostgreSQL is accessible and configured with appropriate user credentials.
 You can follow this deployment guide or ask me for a tailored step-by-step setup.
 ```
 
-#📬 Contact
+# 📬 Contact
+
 ```
 Built with 💼 by NextGen AI Solutions
 Need support or custom features? Reach out at: support@nextgenaisolutions.co.uk
 ```
 
-#📝 License
+# 📝 License
+
 ```
 This project is under the MIT License – see the LICENSE file for details.
 ```
